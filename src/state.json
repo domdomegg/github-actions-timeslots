@@ -25,6 +25,11 @@
             "column": "Thursday",
             "row": "3pm",
             "by": "domdomegg"
+        },
+        {
+            "column": "Tuesday",
+            "row": "2pm",
+            "by": "domdomegg"
         }
     ]
 }
