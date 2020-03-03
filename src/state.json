@@ -15,5 +15,11 @@
         "3pm",
         "4pm"
     ],
-    "bookings": []
+    "bookings": [
+        {
+            "column": "Tuesday",
+            "row": "11am",
+            "by": "domdomegg"
+        }
+    ]
 }
